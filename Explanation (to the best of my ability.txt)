@@ -1,0 +1,19 @@
+Let me break down the code for dum ppl like myself to understand :3c
+(Note i am NOT a expert or a teacher on C++ i am just a student passing time if i get anything wrong
+please correct me okay? Thanks)
+
+In the first line of the code we see the term "#include <iostream>" what this term is doing?
+This term is a command to include a library called "iostream", this library contains certain commands
+we are using in this programm like "std::cout" "std::cin" that are responsible for outputting a term or
+taking input from user. In the second line we see "#include <string>" this is needed to reliably use the 
+"std::string name;" in line 5, you program may compile even without it but its a bad practice (or so i am told)
+
+"name;" is a variable in this program that is actually a object now, now that we used "std::string" which has its own benefits
+that someone more qualified would love to talk to you about but what i would say is it shows the
+"spirit" of C++, the language itself is a object oriented language which is neat and makes things easier compared
+to its predecessors
+
+Now for the "system ("pause");", to be honest even i dont know how "pause" got turned into that sentance but i can say
+that "system();" talks to your operating system (in this case windows)
+
+guh, thats all this dum boi knows bai :3
